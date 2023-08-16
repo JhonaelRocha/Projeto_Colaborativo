@@ -1,3 +1,11 @@
 Olá Mundo!
 
 Novas descrições!
+
+#linhas adicionadas pelo colaborador.
+
+Ola , estamos em um projeto colaborativo.!!
+
+e estamos avançando..
+
+E adicinando linhas(commits) para melhor entendimento das funcoes.
