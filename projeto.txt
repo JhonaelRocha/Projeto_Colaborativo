@@ -8,4 +8,4 @@ Ola , estamos em um projeto colaborativo.!!
 
 e estamos avançando..
 
-E adicinando linhas(commits) para melhor entendimento das funcoes.
+E adicinando linhas para melhor entendimento das funcoes.
